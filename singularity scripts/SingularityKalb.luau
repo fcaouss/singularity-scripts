@@ -1,7 +1,7 @@
 repeat task.wait() until game:IsLoaded()
 
---   SINGULARITY  |  Kick a Lucky Block
---   made by @fcoauss motherfuckers
+--   SINGULARITY Kick a Lucky Block
+--   credits: @fcoauss motherfuckers
 
 local Players          = game:GetService("Players")
 local RunService       = game:GetService("RunService")
