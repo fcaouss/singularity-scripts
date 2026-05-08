@@ -1421,4 +1421,4 @@ task.spawn(function()
 	if Enabled.AutoRight    then AutoRight=true; startRight() end
 end)
 
-print("[Singularity] is loaded")
+print("[Singularity] loaded")
