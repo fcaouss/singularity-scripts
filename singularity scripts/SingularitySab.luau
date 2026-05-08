@@ -1420,3 +1420,5 @@ task.spawn(function()
 	if Enabled.AutoLeft     then AutoLeft=true;  startLeft()  end
 	if Enabled.AutoRight    then AutoRight=true; startRight() end
 end)
+
+print("[Singularity] is loaded")
